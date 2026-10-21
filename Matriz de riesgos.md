@@ -229,13 +229,7 @@ Los resultados deberán documentarse con evidencias de las actividades realizada
 
 ## 10. Seguimiento mediante GitHub Projects
 
-Para dar seguimiento a los riesgos se utilizará el tablero:
-
-**Sprint 3 - Planificación - Open Hub Tec – Mixteca**
-
-**Repositorio de referencia:**
-
-https://github.com/SistemasTecTlaxiaco/gestion-de-proyectos-de-software-tablero-group-9
+Para dar seguimiento a los riesgos se utilizará el tablero
 
 Los riesgos prioritarios podrán registrarse como *Issues* relacionadas con las historias del sistema.
 
